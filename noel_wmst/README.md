@@ -1,3 +1,14 @@
+## Important stuff:
+To run, clone [Create React App](https://github.com/facebookincubator/create-react-app) and site files into separate folders within same directory. Navigate to the folder containing site files and `npm start`
+
+You may need to install reactstrap dependencies using the following commands: 
+`npm install bootstrap --save
+npm install --save reactstrap@next react react-dom`
+
+Node 8.5 or higher required.
+
+## Facebook's bootstrapping info:
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
